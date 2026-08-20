@@ -2,7 +2,7 @@
 
 public class transactionLogApp {
 
-public static int depositAmount(double depositAmount, double currentAmount) {
+public static double depositAmount(double depositAmount, double currentAmount) {
 
 return currentAmount + depositAmount;
 }
@@ -11,7 +11,7 @@ return currentAmount + depositAmount;
 
 
 
-public static int amountWithdraw(double withdrawer, double currentBalance) {
+public static double amountWithdraw(double withdrawer, double currentBalance) {
 
 if (withdrawer <= currentBalance) {
 
@@ -31,11 +31,6 @@ import java.util.Scanner;
 public static void main(String [] args) {
 
 Scanner input = new Scanner(System.in);
-
-
-
-
-
 
 
 }
