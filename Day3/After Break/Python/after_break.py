@@ -14,7 +14,7 @@ def letter_index(String):
 
           print(letter)
 
-  print(String, 'has', letter_index, 'letters')
+  print(String,   'has', letter_index, 'letters')
 
 string = input ("Enter random letters: ")
 

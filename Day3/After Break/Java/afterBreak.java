@@ -3,7 +3,14 @@
 
 
 
-public class AfterBreak.java {
+public class AfterBreak{
+
+
+public static string characterCount (String text) {
+
+
+
+}
 
 public static void main(String[] args) {
 
@@ -13,3 +20,8 @@ public static void main(String[] args) {
 }
 
 }
+
+
+
+
+public static String 
