@@ -2,9 +2,9 @@
 
 public class rectangle {
 
-public static int areaOfRectangle(int firstNumber, int secondNumber){
+public static int areaOfRectangle(int lenght, int breath){
 
-int area = firstNumber * secondNumber
+int area = length * breath
 
 return area;
 
