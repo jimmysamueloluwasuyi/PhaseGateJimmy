@@ -2,7 +2,7 @@
 
 public class addDigits{
 
-  public static int reverseOf(int number){
+  public static int sumOfDigits(int number){
 
 int sum = 0;
 
