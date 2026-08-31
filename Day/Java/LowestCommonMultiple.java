@@ -1,11 +1,11 @@
 
-public class LowestCommonDenominator {
+public class LowestCommonMultiple {
 
 public static void main(String[] args) {
 
-int firstNumber = 4;
+int firstNumber = 8;
 
-int secondNumber = 6;
+int secondNumber = 12;
 
 int lcm = 1;
 

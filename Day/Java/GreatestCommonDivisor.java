@@ -1,12 +1,12 @@
 
 
-public class GreatestCommonDenominator {
+public class GreatestCommonDivisor {
 
 public static void main(String[] args) {
 
 int firstNumber = 12;
 
-int secondNumber = 18;
+int secondNumber = 8;
 
 int gcd = 1;
 

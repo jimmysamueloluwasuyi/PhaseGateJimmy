@@ -7,7 +7,7 @@ public class ArmstrongNumberChecker {
 
 public static void main(String[] args) {
 
-int number = 153;
+int number = 121;
 
 int originalNumber = number;
 
